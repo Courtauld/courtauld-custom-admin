@@ -2,6 +2,7 @@
 
 /*
    Plugin Name: Courtauld Custom Admin
+   Plugin URI: https://github.com/Courtauld/courtauld-custom-admin
    Description: Customises the admin interface. This version hides the Jetpack page, and the Posts page.
    Version: 1.0
    Author: Jacob Charles Wilson
